@@ -50,6 +50,10 @@ header .banner-text hr {
    border-color: #cfd2d1;
    border-color: rgba(105, 105, 105, .1);
 }
+header .credit {
+   position:absolute;
+   bottom:10px;
+}
 header .social {
    margin: 24px 0;
    padding: 0;
