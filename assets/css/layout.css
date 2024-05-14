@@ -249,13 +249,13 @@ footer .copyright li:before{
    height: 42px;
    border-radius: 3px;
    position: relative;
-   margin-bottom: 60px;
+   margin-bottom: 10px;
 }
 .bars li em{
    font: 15px 'Source Sans Pro', sans-serif;
    color:#fff;
    text-transform: uppercase;
-   font-weight: normal;
+   font-weight: bold;
    top: 10px;
    left: 10px;
    position: relative;
