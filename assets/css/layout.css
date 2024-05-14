@@ -241,11 +241,11 @@ footer .copyright li:before{
    text-align: left;
 }
 .bars .skills {
-   margin-top:36px;
+   margin-top:-20px;
    list-style: none;
 }
 .bars li {
-   background: #ccc;
+   background: #e8e8e8;
    height: 42px;
    border-radius: 3px;
    position: relative;
@@ -253,10 +253,11 @@ footer .copyright li:before{
 }
 .bars li em{
    font: 15px 'Source Sans Pro', sans-serif;
-   color:#313131;
+   color:#fff;
    text-transform: uppercase;
    font-weight: normal;
-   top: -36px;
+   top: 10px;
+   left: 10px;
    position: relative;
    letter-spacing: 2px;
 }
