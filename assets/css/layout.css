@@ -273,9 +273,17 @@ footer .copyright li:before{
    border-radius: 3px 0 0 3px;
    position:absolute;
 }
+
 .html5{width:85%}
-.css{width:70%;}
-.jquery{width:55%;}
-.photoshop{width:60%;}
+.css{width:80%;}
+.javascript{width:60%;}
+.jquery{width:65%;}
+.photoshop{width:70%;}
 .java{width:65%;}
-.python{width:45%;}
+.python{width:55%;}
+.react{width:20%;}
+.cpp{width:5%;}
+.csharp{width:30%;}
+.asm{width:15%;}
+.sql{width:35%;}
+
