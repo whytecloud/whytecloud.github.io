@@ -50,7 +50,7 @@ header .banner-text hr {
    border-color: #cfd2d1;
    border-color: rgba(105, 105, 105, .1);
 }
-header .credit {
+header .banner-text.credit {
    position:absolute;
    bottom:10px;
 }
